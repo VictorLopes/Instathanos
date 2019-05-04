@@ -8,4 +8,4 @@ Script that unfollow all users that you are following but they are not following
 
 pip install InstagramApi
 
-just set up your username and password and execute the script. It will do all the job for you.
+just set up your username and password and run the script. It will do all the job for you.
