@@ -2,7 +2,7 @@
 
 ## Description
 
-Script that unfollow all users that you are following but they are not following you back.
+Script that unfollow all users that you are following but they are not following you back. It may also unfollow 50% randomly of all users you are following.
 
 ## Configuration
 
